@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "io.github.tresscutie.twa",
+        "sha256_cert_fingerprints": ["35:81:3B:67:B0:17:59:DC:DC:19:BE:64:AE:80:F6:6F:29:8E:E8:87:44:A5:A5:FC:C0:0B:4F:8F:A8:EE:8C:D8"]
+      }
+    }]
